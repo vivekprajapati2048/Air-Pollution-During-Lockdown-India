@@ -4,3 +4,6 @@ This repository consists of different operations over AQI dataset in order to fi
 Moreover The dataset contains air quality data and AQI (Air Quality Index) at hourly and daily level of various stations across multiple cities in India.
 
 The data has been made publicly available by the Central Pollution Control Board: https://cpcb.nic.in/ which is the official portal of Government of India. They also have a real-time monitoring app: https://app.cpcbccr.com/AQI_India/
+
+
+The data set I used is from kaggle. Link to which is https://www.kaggle.com/rohanrao/air-quality-data-in-india
